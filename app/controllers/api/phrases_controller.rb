@@ -1,4 +1,4 @@
 class Api::PhrasesController < ApplicationController
-
-  def
+  def enter_phrase
+  end
 end
